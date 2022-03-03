@@ -1,0 +1,35 @@
+{
+  "generator-ngx-rocket": {
+    "version": "10.1.2",
+    "props": {
+      "location": "path",
+      "strict": true,
+      "skipInstall": false,
+      "skipQuickstart": false,
+      "initGit": true,
+      "usePrefix": true,
+      "appName": "Ejercicio",
+      "target": [
+        "web"
+      ],
+      "ui": "bootstrap",
+      "features": [],
+      "languages": [
+        "es-ES"
+      ],
+      "tools": [],
+      "utility": [],
+      "deploy": "firebase",
+      "projectName": "ejercicio",
+      "packageManager": "npm",
+      "mobile": [],
+      "desktop": [],
+      "pwa": false,
+      "auth": false,
+      "lazy": false,
+      "e2e": false,
+      "cypress": false,
+      "angulartics": false
+    }
+  }
+}
